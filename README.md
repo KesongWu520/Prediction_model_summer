@@ -1,36 +1,54 @@
 # Prediction_model_summer
-Global Probabilistic Forecasting and Evaluation Pipeline
+### Global Probabilistic Forecasting and Evaluation Pipeline
 
-Overview
+---
 
-This repository implements a global probabilistic time series forecasting pipeline for weekly data across multiple countries.
+## 📖 Overview
+This repository implements a **Global Probabilistic Time Series Forecasting Pipeline** designed for weekly data across multiple countries. By leveraging global models—where a single model is trained on data from all regions—this framework aims to capture cross-country patterns and improve predictive accuracy.
 
 The project focuses on:
-	•	Training single global models across all countries
-	•	Generating probabilistic (quantile) forecasts using rolling backtesting
-	•	Evaluating forecast quality using proper scoring rules, mainly the Weighted Interval Score (WIS)
+* **Global Training:** Training unified models across diverse geographical datasets.
+* **Probabilistic Output:** Generating quantile forecasts to quantify uncertainty.
+* **Rigorous Evaluation:** Utilizing rolling backtesting and the **Weighted Interval Score (WIS)** to assess performance.
 
-The goal of this project is to compare forecasting models and assess predictive uncertainty in a consistent and reproducible way.
+---
 
-What This Project Does
-	•	Aligns multi-country time series to a regular weekly grid and handles missing values
-	•	Trains a global forecasting model shared by all countries
-	•	Performs rolling backtests with multiple forecast origins
-	•	Outputs forecasts in a standard quantile-based format
-	•	Evaluates forecasts using calibration and accuracy metrics in R
+## 🚀 Key Features
+* **Data Alignment:** Synchronizes multi-country time series to a regular weekly grid and handles missing values.
+* **Global Modeling:** Trains a single, shared forecasting model shared by all countries.
+* **Rolling Backtests:** Performs evaluation across multiple forecast origins to ensure robustness.
+* **Standardized Output:** Generates forecasts in a consistent quantile-based format.
+* **Advanced Metrics:** Evaluates forecast quality using calibration and accuracy metrics in **R**.
 
-Models
+---
 
-The pipeline supports the following global models:
-	•	Transformer
+## 🧠 Supported Models
+The pipeline supports state-of-the-art global architectures:
 
-All models produce probabilistic forecasts via quantile regression.
+* **Transformer:** Leverages self-attention mechanisms to capture complex temporal dependencies.
 
-Outputs
-	•	Quantile forecast CSV files for each country and forecast date
-	•	Rolling backtest summary with WIS scores
-	•	Evaluation plots and summary tables (WIS, coverage, horizon analysis)
+> **Note:** All models produce probabilistic forecasts via **Quantile Regression**, providing a full distribution of potential outcomes rather than a single point estimate.
 
-Purpose
+---
 
-This project is intended for research and methodological evaluation of global probabilistic forecasting models, particularly for multi-country or multi-region time series data.
+## 📂 Outputs
+The pipeline generates the following data and artifacts:
+* **Quantile Forecasts:** CSV files organized by country and forecast date.
+* **Backtest Summaries:** Detailed logs containing WIS scores for each rolling window.
+* **Evaluation Plots:** Summary tables and visualizations covering:
+    * **WIS (Weighted Interval Score)**
+    * **Coverage Analysis**
+    * **Forecast Horizon Analysis**
+
+---
+
+## 📊 Evaluation Metrics
+To ensure consistent and reproducible results, we focus on:
+1. **Weighted Interval Score (WIS):** The primary proper scoring rule used to evaluate quantile forecasts.
+2. **Calibration:** Assessing the reliability of predicted intervals.
+3. **Sharpness:** Measuring the concentration of the predictive distributions.
+
+---
+
+## 🎯 Purpose
+This project is intended for **research and methodological evaluation** of global probabilistic forecasting models, particularly for multi-country or multi-region time series data. It provides a standardized framework to compare different neural network architectures in a unified environment.
