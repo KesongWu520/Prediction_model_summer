@@ -1,0 +1,625 @@
+Country,Target,Model,Forecast_Date,Backtest_Round,Offset_Weeks,Train_Weeks,WIS
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,459.5699
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,297.3863
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,348.528
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,399.9886
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,444.528
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,723.2324
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,787.0134
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,255.6914
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,243.3743
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,195.9536
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,210.0925
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,378.8332
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,253.3565
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,976.6419
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,897.6398
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,1043.3424
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,854.3414
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,224.7309
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,216.2655
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,354.6601
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,385.5635
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,468.7426
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,437.7687
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,398.962
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,330.4668
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,284.7241
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,381.2334
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,172.96
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,180.4813
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,165.5707
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,135.6068
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,154.0508
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,184.8006
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,190.706
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,279.1518
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,253.6528
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,124.0044
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,331.653
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,1956.6989
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,1180.903
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,1909.2447
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,1658.5565
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,1989.1008
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,2025.1667
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,813.6243
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,377.2906
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,698.0029
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,1002.9453
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,1038.3656
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,1132.8568
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,509.2137
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,1140.9339
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,645.766
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,570.515
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,441.6887
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,514.5
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,839.8215
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,616.5143
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,927.4615
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,278.7475
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,422.8781
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,525.1499
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,373.9922
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,401.0814
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,182.4304
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,253.5737
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,210.646
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,212.8856
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,273.4491
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,182.5101
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,182.7289
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,84.1834
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,57.8608
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,272.321
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,223.5534
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,265.425
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,329.2837
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,155.9454
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,139.6449
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,124.8515
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,126.88
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,168.0957
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,284.6713
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,220.6119
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,295.1735
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,405.7207
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,793.6281
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,1044.1033
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,685.4229
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,915.02
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,578.5877
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,282.6326
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,506.9972
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,316.0931
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,353.203
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,976.3884
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,1323.1863
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,1751.3492
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,2821.4037
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,2452.1113
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,2281.2193
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,1645.6214
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,1955.6458
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,1708.8108
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,623.2873
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,555.9333
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,405.6419
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,323.9922
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,135.1174
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,98.6271
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,136.2835
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,97.3324
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,105.8423
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,77.1603
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,59.154
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,57.8008
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,129.7685
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,216.3987
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,144.2037
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,125.8708
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,101.708
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,85.888
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,86.8979
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,170.3941
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,124.0259
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,98.7448
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,89.4299
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,31.2811
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,31.3515
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,82.3907
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,46.3749
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,32.643
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,36.2968
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,36.0322
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,29.743
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,34.7019
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,36.1425
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,34.9843
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,37.698
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,50.4148
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,34.1086
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,145.0968
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,883.3028
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,676.5498
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,631.0591
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,960.4705
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,811.0277
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,976.3799
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,407.176
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,267.791
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,752.8477
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,694.2408
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,756.6346
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,767.1233
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,202.3144
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,183.6073
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,2677.3591
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,2780.0357
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,2522.1444
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,2098.036
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,1457.8758
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,872.8912
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,530.2993
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,292.793
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,135.9742
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,49.6769
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,14.5494
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,0.0065
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,0.0226
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,0.0272
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,0.0075
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,0.008
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,0.0123
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,0.015
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,0.0074
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,0.0054
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,0.0076
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,0.006
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,0.0065
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,0.0109
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,0.0205
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,0.0068
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,0.0096
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,0.0072
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,0.0193
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,0.0061
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,0.007
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,0.025
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,0.0084
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,0.0084
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,0.019
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,0.0127
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,0.0063
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,0.0174
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,0.0108
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,0.028
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,0.0062
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,0.0116
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,0.0213
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,0.0168
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,0.0109
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,0.0123
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,0.0104
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,0.0121
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,0.0107
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,0.018
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,0.0101
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,0.0067
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,0.0112
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,0.0115
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,0.0139
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,0.0062
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,0.0097
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,0.0098
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,0.0084
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,0.0103
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,0.0087
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,0.0222
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,0.0055
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,0.0064
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,0.0216
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,0.0272
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,0.0071
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,0.0077
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,0.0126
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,0.0139
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,0.007
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,0.005
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,0.0079
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,0.0058
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,0.0066
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,0.011
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,0.0225
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,0.0069
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,0.0094
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,0.0075
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,0.0187
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,0.0062
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,0.007
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,0.0261
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,0.0083
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,0.0072
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,0.0181
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,0.0129
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,0.0061
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,0.0169
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,0.0117
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,0.0275
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,0.0065
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,0.0113
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,0.0201
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,0.015
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,0.011
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,0.0134
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,0.0105
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,0.012
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,0.0101
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,0.0186
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,0.0105
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,0.0124
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,304.49
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,674.0705
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,952.1696
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,442.5333
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,749.2488
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,150.7759
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,137.6218
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,96.5394
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,95.5358
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,116.2497
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,150.9875
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,136.7381
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,351.1843
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,259.2785
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,436.1432
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,110.2151
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,174.5718
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,225.7309
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,68.754
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,112.8061
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,113.8082
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,60.5046
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,36.2883
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,202.5906
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,247.2636
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,41.1457
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,254.9075
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,83.428
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,142.3493
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,211.7867
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,405.8524
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,88.1979
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,136.2952
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,142.5872
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,208.7185
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,284.4878
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,182.6191
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,163.0461
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,143.7964
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,136.1385
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,113.1207
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,264.7496
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,222.6692
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,298.6003
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,139.4047
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,293.0713
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,759.8596
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,1065.1064
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,1348.2997
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,1779.2467
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,502.8796
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,318.4453
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,851.4463
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,2206.2502
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,259.5788
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,113.2811
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,100.7693
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,78.1658
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,190.1723
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,113.9389
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,310.3276
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,621.2622
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,197.1165
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,194.9918
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,285.3043
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,367.659
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,188.023
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,111.1168
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,79.5396
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,38.9536
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,53.1566
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,40.6007
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,65.6447
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,67.7335
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,59.3606
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,68.4445
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,49.377
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,43.3716
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,67.8668
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,33.059
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,41.4135
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,30.8075
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,47.1776
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,35.8244
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,30.7965
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,60.3595
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,45.6811
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,81.7835
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,103.2254
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,89.1139
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,155.9805
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,743.2997
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,2606.4832
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,1834.1924
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,752.5981
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,543.9318
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,294.9096
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,512.1859
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,2582.3786
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,1842.2871
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,1318.8139
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,978.446
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,407.5101
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,778.4557
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,193.9533
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,63.5944
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,28.3894
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,35.4627
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,36.2599
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,9.7073
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,32.6616
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,8.3923
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,9.614
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,8.438
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,6.6991
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,7.1346
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,11.6447
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,14.8622
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,7.2085
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,8.4282
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,6.1386
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,5.7378
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,5.1537
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,6.6647
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,5.3834
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,6.7598
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,5.1282
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,3.6089
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,3.7779
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,3.671
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,4.248
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,4.462
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,5.6013
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,8.2002
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,6.0924
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,5.6217
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,7.6713
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,6.0696
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,16.0715
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,14.2521
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,15.1987
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,28.6741
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,36.6342
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,13.7221
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,142.2143
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,171.6288
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,59.1722
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,322.118
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,248.453
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,197.2102
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,177.8901
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,408.6602
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,282.5393
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,175.3493
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,45.4552
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,20.9851
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,341.6389
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,402.9619
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,121.2883
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,257.7154
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,80.9107
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,205.415
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,99.0304
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,101.474
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,41.7399
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,80.7248
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,64.9335
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,67.386
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,81.6942
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,245.9226
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,130.3413
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,74.9304
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,49.1911
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,13.8222
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,20.2109
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,56.8462
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,46.6111
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,37.8712
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,29.3735
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,14.2618
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,24.5747
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,15.0404
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,15.6306
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,21.3825
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,30.0334
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,60.6457
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,22.4246
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,35.1722
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,69.8333
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,45.2158
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,67.7119
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,55.2803
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,40.6729
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,27.852
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,52.3994
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,26.1067
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,61.5223
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,516.247
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,237.0535
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,138.6447
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,257.8046
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,93.3826
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,578.8036
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,511.4298
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,812.6308
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,445.4505
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,450.0424
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,298.1369
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,251.2292
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,904.4255
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,118.7062
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,219.5062
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,129.6057
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,137.5344
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,85.9504
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,55.6422
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,64.5917
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,81.7286
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,114.0813
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,64.3178
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,55.5494
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,116.9257
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,69.4963
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,118.069
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,127.1416
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,84.5047
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,121.1685
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,92.7338
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,69.8835
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,80.1395
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,57.2941
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,56.8891
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,78.1097
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,49.9734
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,50.2786
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,60.1653
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,82.1432
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,164.2611
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,70.5743
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,54.7947
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,134.5154
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,109.6259
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,247.8194
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,124.9259
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,189.2743
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,149.5222
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,790.4547
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,723.9244
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,367.8192
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,419.0583
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,224.1475
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,2292.9679
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,420.5103
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,1526.6243
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,3239.0059
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,2475.5651
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,1319.0473
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,490.7265
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,1216.8148
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,723.0832
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,715.0204
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,261.6177
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,128.5948
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,377.9456
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,531.7582
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,165.6627
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,89.1034
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,97.7136
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,140.7495
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,180.8587
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,320.9249
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,307.2512
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,568.4514
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,912.9426
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,558.9169
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,247.3511
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,99.0865
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,32.5633
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,22.4878
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,28.8956
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,27.7178
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,94.2563
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,72.0309
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,62.7144
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,56.2357
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,60.2893
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,49.3491
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,36.6529
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,105.8756
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,175.8903
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,180.6403
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,221.8068
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,182.2146
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,91.3148
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,69.9549
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,98.3506
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,754.4053
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,491.1958
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,848.4113
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,441.5759
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,179.6349
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,434.7347
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,189.5365
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,403.0191
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,210.5905
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,402.8701
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,380.3094
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,954.121
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,575.901
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,505.4777
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,417.8477
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,339.4346
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-12-07,1,0,233,118.5676
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-30,2,1,232,137.7877
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-23,3,2,231,139.2122
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-16,4,3,230,157.2392
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-09,5,4,229,95.9586
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-11-02,6,5,228,27.1902
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-26,7,6,227,14.5893
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-19,8,7,226,16.8584
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-12,9,8,225,12.8044
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-10-05,10,9,224,8.8713
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-28,11,10,223,11.58
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-21,12,11,222,10.4834
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-14,13,12,221,11.693
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-09-07,14,13,220,6.7796
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-31,15,14,219,6.1947
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-24,16,15,218,3.7975
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-17,17,16,217,6.6837
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-10,18,17,216,9.3716
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-08-03,19,18,215,4.608
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-27,20,19,214,3.3906
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-20,21,20,213,4.2055
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-13,22,21,212,6.1691
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-07-06,23,22,211,4.6847
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-29,24,23,210,3.2245
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-22,25,24,209,3.503
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-15,26,25,208,5.9751
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-08,27,26,207,8.0789
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-06-01,28,27,206,6.5364
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-25,29,28,205,4.8967
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-18,30,29,204,3.8992
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-11,31,30,203,3.4816
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-05-04,32,31,202,4.1827
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-27,33,32,201,5.3724
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-20,34,33,200,5.3459
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-13,35,34,199,4.9367
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-04-06,36,35,198,8.836
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-30,37,36,197,7.0406
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-23,38,37,196,9.706
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-16,39,38,195,11.6917
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-09,40,39,194,7.2092
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-03-02,41,40,193,12.3265
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-23,42,41,192,52.6204
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-16,43,42,191,11.5831
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-09,44,43,190,88.764
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-02-02,45,44,189,19.2266
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-26,46,45,188,29.2622
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-19,47,46,187,89.8947
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-12,48,47,186,78.6301
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2025-01-05,49,48,185,35.3197
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-29,50,49,184,100.9271
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-22,51,50,183,190.4202
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression),2024-12-15,52,51,182,142.1675
