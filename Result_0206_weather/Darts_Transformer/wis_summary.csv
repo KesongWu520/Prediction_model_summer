@@ -1,0 +1,625 @@
+Country,Target,Model,Forecast_Date,Backtest_Round,Offset_Weeks,Train_Weeks,WIS
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,487.8277
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,488.2851
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,193.4117
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,419.4372
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,1291.3465
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,969.8785
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,1139.6705
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,609.7745
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,315.8232
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,305.1355
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,383.7383
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,222.4584
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,348.5377
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,717.9977
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,222.5224
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,232.8643
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,544.096
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,164.0999
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,247.1719
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,464.5695
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,518.7523
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,257.405
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,202.2728
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,81.4626
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,85.2948
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,120.8934
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,294.605
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,140.8392
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,245.2745
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,171.302
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,151.3712
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,146.7424
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,158.1613
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,421.5613
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,357.2452
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,519.5054
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,364.9086
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,445.9846
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,257.8059
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,547.8221
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,867.5906
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,473.217
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,643.8546
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,302.0246
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,243.8412
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,330.7329
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,1149.4548
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,405.4702
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,618.7341
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,266.3253
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,438.6596
+Belgium,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,1383.9184
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,506.9998
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,776.3006
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,293.0529
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,393.3227
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,1046.1757
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,592.1185
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,1021.9944
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,373.3556
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,465.7035
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,358.2265
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,164.5079
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,350.0449
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,163.5449
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,358.5813
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,211.654
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,280.5622
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,168.7468
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,113.3824
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,117.8784
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,76.1981
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,60.7796
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,204.4744
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,153.0188
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,136.0127
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,415.7077
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,239.0658
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,115.1333
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,137.3108
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,98.7534
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,107.4119
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,106.9985
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,284.748
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,187.478
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,1074.2746
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,1417.9073
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,1024.1715
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,542.6766
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,293.0091
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,192.4759
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,281.9488
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,483.9941
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,543.8623
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,693.0273
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,2056.6029
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,2056.5838
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,2632.2886
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,1690.0142
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,2430.8323
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,3075.2896
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,1203.8652
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,1790.0026
+Czech Republic,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,2108.0084
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,109.1356
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,157.0299
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,127.2092
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,125.0725
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,329.152
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,220.9899
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,331.0357
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,192.7727
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,128.8399
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,62.0418
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,86.9719
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,52.8907
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,97.317
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,127.944
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,87.5791
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,113.2375
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,172.486
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,20.734
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,23.8465
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,34.745
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,59.0273
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,84.2908
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,128.1849
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,190.1953
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,88.07
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,47.0838
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,26.5768
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,32.7938
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,27.4345
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,28.9485
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,39.7098
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,29.0184
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,63.9528
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,37.2187
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,29.5244
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,78.6348
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,103.9067
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,127.1701
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,101.9601
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,159.6137
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,125.6801
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,87.0402
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,87.3708
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,121.3456
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,96.5299
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,846.429
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,989.7357
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,1248.3351
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,1316.2224
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,654.0943
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,326.429
+France,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,196.6507
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,2513.4685
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,2897.6004
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,2781.6565
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,2004.4023
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,1473.4061
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,891.887
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,526.216
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,292.7721
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,135.9964
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,49.6982
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,14.564
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,0.0079
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,0.0145
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,0.0104
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,0.0096
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,0.0114
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,0.0086
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,0.0079
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,0.0069
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,0.0069
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,0.0077
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,0.0082
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,0.0115
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,0.0064
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,0.0132
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,0.0069
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,0.0072
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,0.0113
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,0.0105
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,0.0066
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,0.0136
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,0.0104
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,0.0076
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,0.0094
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,0.01
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,0.0117
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,0.0081
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,0.0093
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,0.0093
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,0.0158
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,0.0079
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,0.0109
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,0.0124
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,0.0106
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,0.0085
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,0.0098
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,0.0088
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,0.0113
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,0.0155
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,0.012
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,0.0142
+Italy,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,0.0086
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,0.0073
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,0.0111
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,0.0117
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,0.0086
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,0.0064
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,0.006
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,0.0136
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,0.0082
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,0.0162
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,0.0096
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,0.008
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,0.0077
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,0.0151
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,0.0101
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,0.0092
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,0.0112
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,0.0085
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,0.0077
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,0.007
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,0.0064
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,0.0072
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,0.0081
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,0.013
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,0.0063
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,0.0139
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,0.0071
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,0.0074
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,0.0108
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,0.0106
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,0.0066
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,0.0152
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,0.0101
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,0.0073
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,0.0101
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,0.01
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,0.0109
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,0.0077
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,0.0087
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,0.009
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,0.0149
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,0.007
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,0.0114
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,0.0123
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,0.0104
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,0.0094
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,0.0094
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,0.0085
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,0.0107
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,0.0144
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,0.0119
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,0.013
+Poland,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,0.0086
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,813.4323
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,411.3103
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,266.4154
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,220.8018
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,404.8921
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,166.7532
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,164.5817
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,90.5232
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,96.2633
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,606.4119
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,410.3034
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,147.4152
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,91.1851
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,523.3611
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,122.5599
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,261.4652
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,90.5349
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,68.2767
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,54.2574
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,95.1574
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,64.8608
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,119.9277
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,105.0264
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,54.0319
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,52.2559
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,132.303
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,177.1309
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,56.8271
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,114.7353
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,80.6772
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,122.9879
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,179.3815
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,127.8997
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,172.1676
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,154.3142
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,379.7604
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,178.9751
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,138.7409
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,105.8835
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,236.0992
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,220.8484
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,125.6067
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,157.4286
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,170.3368
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,165.6788
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,144.0575
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,219.2768
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,595.2603
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,772.8529
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,264.6025
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,320.6817
+Spain,ARI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,231.8145
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,134.1038
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,332.1395
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,155.8643
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,230.0696
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,131.3218
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,67.3079
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,108.7022
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,66.103
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,101.6018
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,106.6216
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,207.0134
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,114.9572
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,194.7539
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,214.6253
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,139.8342
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,95.3018
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,66.4472
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,40.4216
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,49.307
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,42.522
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,38.1685
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,60.3514
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,46.0447
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,61.3852
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,59.49
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,27.7819
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,28.3185
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,23.928
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,28.421
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,39.6278
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,32.3516
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,24.6427
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,47.2222
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,28.3566
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,63.7059
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,112.7569
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,51.8521
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,51.6367
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,94.596
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,296.8277
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,511.7286
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,350.1261
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,145.6035
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,882.6502
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,1186.377
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,804.6921
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,2387.5907
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,1567.1717
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,1152.7247
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,558.5478
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,210.708
+Belgium,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,407.0726
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,108.8094
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,169.2838
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,105.6603
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,43.6305
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,28.6282
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,8.4632
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,11.3136
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,6.8778
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,5.9727
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,9.7102
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,9.8383
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,6.2649
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,9.5834
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,14.6594
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,10.0779
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,5.5899
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,8.919
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,4.1933
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,7.6276
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,10.5645
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,4.5639
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,5.0241
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,3.3654
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,2.803
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,4.6211
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,2.3343
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,3.3967
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,3.6172
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,6.819
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,6.5747
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,3.3166
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,5.1684
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,7.3746
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,5.3184
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,15.5164
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,22.616
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,15.1468
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,8.747
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,10.3916
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,44.7292
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,295.2914
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,201.364
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,134.6776
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,103.747
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,104.9631
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,276.6552
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,527.3352
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,488.131
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,339.9402
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,169.9314
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,41.6777
+Czech Republic,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,67.0478
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,471.6201
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,112.6549
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,199.6311
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,104.8406
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,100.2939
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,122.4752
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,138.6249
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,51.9619
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,95.5019
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,78.8738
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,56.1194
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,48.2485
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,101.0195
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,148.1342
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,95.9675
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,59.5813
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,27.0213
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,17.7316
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,19.8596
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,15.2076
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,32.0495
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,36.1256
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,46.6558
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,100.7963
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,68.388
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,112.1858
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,40.3675
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,20.2949
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,57.6292
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,16.5097
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,27.8437
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,25.5551
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,42.4617
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,51.999
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,75.6799
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,52.3053
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,44.0058
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,26.0921
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,23.7236
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,62.8832
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,461.9391
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,325.0445
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,284.9618
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,297.1231
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,293.5073
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,340.9759
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,838.717
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,828.4638
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,616.9171
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,321.9879
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,239.9276
+France,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,89.876
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,206.4353
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,832.1649
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,1090.8287
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,634.902
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,835.6234
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,596.3169
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,237.5972
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,131.1055
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,130.806
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,353.1664
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,153.391
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,312.9787
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,226.3385
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,102.2359
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,69.7051
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,80.5155
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,175.954
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,160.2713
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,92.1955
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,234.4031
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,136.1568
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,107.5996
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,87.7565
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,213.4508
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,167.1228
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,194.992
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,82.8126
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,58.1575
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,32.7197
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,53.4812
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,124.632
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,35.6097
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,46.6109
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,137.6177
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,302.737
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,364.4256
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,257.6513
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,113.2184
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,127.0506
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,102.362
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,1648.5981
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,506.0348
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,215.6803
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,406.9301
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,2096.3153
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,1749.0283
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,913.2544
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,1385.5633
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,1243.7094
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,308.1316
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,472.3747
+Italy,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,405.1258
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,186.3984
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,234.3914
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,83.4984
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,220.4686
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,445.1553
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,303.0555
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,291.9911
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,133.3745
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,184.1417
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,239.1682
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,307.1767
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,370.2084
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,614.71
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,848.0001
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,424.4752
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,196.4852
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,96.6682
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,74.4916
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,31.7702
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,36.3384
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,23.8855
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,25.005
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,32.4384
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,28.9656
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,29.1639
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,35.1809
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,47.2185
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,44.2353
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,120.3474
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,67.738
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,61.367
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,179.8629
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,85.2593
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,121.7868
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,159.9451
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,195.6837
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,75.3551
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,130.5465
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,100.6053
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,609.3028
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,463.3855
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,453.7974
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,280.98
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,116.3334
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,519.061
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,757.6372
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,453.4819
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,588.0166
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,435.2805
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,275.7257
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,533.0901
+Poland,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,946.6021
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-12-07,1,0,233,116.4146
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-30,2,1,232,165.4994
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-23,3,2,231,166.9845
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-16,4,3,230,93.4405
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-09,5,4,229,51.1097
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-11-02,6,5,228,65.7912
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-26,7,6,227,37.3236
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-19,8,7,226,35.3135
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-12,9,8,225,18.5204
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-10-05,10,9,224,12.0028
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-28,11,10,223,24.9368
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-21,12,11,222,10.0051
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-14,13,12,221,16.0403
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-09-07,14,13,220,11.4698
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-31,15,14,219,4.7459
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-24,16,15,218,4.2773
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-17,17,16,217,2.9005
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-10,18,17,216,4.9841
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-08-03,19,18,215,5.8799
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-27,20,19,214,3.1308
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-20,21,20,213,4.1253
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-13,22,21,212,3.3631
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-07-06,23,22,211,3.7942
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-29,24,23,210,2.9923
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-22,25,24,209,7.8644
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-15,26,25,208,2.2923
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-08,27,26,207,5.2015
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-06-01,28,27,206,7.1436
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-25,29,28,205,2.3701
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-18,30,29,204,3.5543
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-11,31,30,203,2.5903
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-05-04,32,31,202,3.1829
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-27,33,32,201,4.8797
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-20,34,33,200,2.5158
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-13,35,34,199,3.5103
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-04-06,36,35,198,4.9827
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-30,37,36,197,5.3653
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-23,38,37,196,8.0814
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-16,39,38,195,15.4846
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-09,40,39,194,18.6354
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-03-02,41,40,193,19.7111
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-23,42,41,192,8.1347
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-16,43,42,191,12.058
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-09,44,43,190,44.3172
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-02-02,45,44,189,93.7633
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-26,46,45,188,140.4179
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-19,47,46,187,67.6476
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-12,48,47,186,35.8462
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2025-01-05,49,48,185,35.9937
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-29,50,49,184,27.2696
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-22,51,50,183,64.665
+Spain,ILI incidence,Darts-TRANSFORMER(QuantileRegression)+Weather,2024-12-15,52,51,182,114.1658
