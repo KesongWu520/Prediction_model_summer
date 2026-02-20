@@ -1,5 +1,18 @@
 # Prediction_model_summer
 ### Global Probabilistic Forecasting and Evaluation Pipeline
+### Recent Update
+Code/0216_model_optuna/Optuna_Find_Optimal_Parameter_V1.py - Using optuna package to find the optimal hyperparameter of model
+
+Code/0220_model_optuna_enhancer/optuna_enhancer_tune_v2.py - Using optuna package to find the optimal hyperparameter of model and enhancer data with following step:
+[1] Log transform on target (log1p / expm1)
+
+[2] PRED_NUM_SAMPLES = 1000
+
+[3] LR scheduler: ReduceLROnPlateau
+
+Code/Evaluation_R_code - Evaluation R code using slingshot package.
+
+
 
 ---
 
